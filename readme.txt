@@ -5,3 +5,4 @@ Git tracks changes of files.
 Local version has been changed.
 Remote versions has been changed.
 Local changes happen again.
+Remote changes happen again.
